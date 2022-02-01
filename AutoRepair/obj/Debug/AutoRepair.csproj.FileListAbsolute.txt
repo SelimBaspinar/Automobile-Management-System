@@ -1,0 +1,74 @@
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csprojAssemblyReference.cache
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.Login.resources
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.Properties.Resources.resources
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csproj.GenerateResource.cache
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csproj.CoreCompileInputs.cache
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\AutoRepair.exe.config
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\AutoRepair.exe
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\AutoRepair.pdb
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\Google.Protobuf.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\MySql.Data.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\System.Buffers.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\System.Memory.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\Zstandard.Net.dll
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\Google.Protobuf.pdb
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\Google.Protobuf.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\MySql.Data.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\System.Buffers.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\System.Memory.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csproj.CopyComplete
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.exe
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.pdb
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.Panel.resources
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddCar.resources
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddCarPart.resources
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddCustomer.resources
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddEmployee.resources
+C:\Users\Selim Başpınar\source\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddPermission.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddCar.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddCarPart.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddCustomer.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddEmployee.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.AddPermission.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.Login.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.Panel.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.Properties.Resources.resources
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csproj.GenerateResource.cache
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.pdb
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\AutoRepair.exe.config
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\AutoRepair.exe
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\AutoRepair.pdb
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\BouncyCastle.Crypto.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\Google.Protobuf.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Hash.xxHash.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\MySql.Data.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\System.Buffers.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\System.Memory.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\Ubiety.Dns.Core.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\ZstdNet.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Compression.LZ4.dll
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\Google.Protobuf.pdb
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\Google.Protobuf.xml
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\K4os.Hash.xxHash.xml
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\MySql.Data.xml
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\System.Buffers.xml
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\bin\Debug\System.Memory.xml
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.exe.config
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.csproj.CopyComplete
+D:\Programming\Visual Studio Projeleri\repos\AutoRepair\AutoRepair\obj\Debug\AutoRepair.exe

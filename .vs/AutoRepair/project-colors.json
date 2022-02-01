@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b016f488-5d3b-4f87-af03-969632928a48": {
+      "ProjectGuid": "b016f488-5d3b-4f87-af03-969632928a48",
+      "DisplayName": "AutoRepair",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
